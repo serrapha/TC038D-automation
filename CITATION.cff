@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Vieira Moreira da Serra"
+  given-names: "Raphael"
+  orcid: "https://orcid.org/0009-0002-4573-5572"
+title: "TC-038D Automation"
+date-released: 2026-21-01
+url: "https://github.com/serrapha/TC038D-automation"
